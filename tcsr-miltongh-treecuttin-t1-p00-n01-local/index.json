@@ -1,0 +1,26 @@
+{
+  "nodeCode": "TCSR-MILTONGH-TREECUTTIN-T1-P00-N01-LOCAL",
+  "slug": "tcsr-miltongh-treecuttin-t1-p00-n01-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Tree Cutting Service & Tree Removal in Roswell GA — Property Owner Guide",
+  "canonical": "https://charles254.github.io/milton-tree-service/tcsr-miltongh-treecuttin-t1-p00-n01-local/",
+  "primaryEntity": "Tree Cutting Service Milton GA",
+  "outgoingLinks": [
+    {
+      "url": "https://treecuttingserviceroswellga.net/service-areas/milton",
+      "anchor": "Milton tree service",
+      "rel": "follow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://treecuttingserviceroswellga.net/service-areas/milton",
+    "https://treecuttingserviceroswellga.net/services/tree-removal",
+    "https://treecuttingserviceroswellga.net/services/emergency-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/tree-trimming",
+    "https://treecuttingserviceroswellga.net/services/stump-grinding",
+    "https://treecuttingserviceroswellga.net/services/crane-tree-removal",
+    "https://treecuttingserviceroswellga.net/"
+  ]
+}
